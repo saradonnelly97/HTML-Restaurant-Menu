@@ -84,3 +84,11 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+nav_bar, ul, li {
+    background-color: brown;
+} 
+
+.highlight {
+    color: rgb(220, 125, 53);
+}
