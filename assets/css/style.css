@@ -92,3 +92,18 @@ nav_bar, ul, li {
 .active {
     color: rgb(220, 125, 53);
 }
+ 
+.green-div {
+  background-color: green;
+  width: 500px;
+  padding: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color:antiquewhite
+}
+
+.page-footer {
+    background-color: firebrick;
+    padding: 10px 0;
+}
