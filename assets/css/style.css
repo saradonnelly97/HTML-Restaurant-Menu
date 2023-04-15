@@ -89,6 +89,6 @@ nav_bar, ul, li {
     background-color: brown;
 } 
 
-.highlight {
+.active {
     color: rgb(220, 125, 53);
 }
